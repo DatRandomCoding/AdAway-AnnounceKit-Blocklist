@@ -2,3 +2,4 @@
 0.0.0.0 announcekit.io
 0.0.0.0 cdn.announcekit.io
 0.0.0.0 api.announcekit.io
+0.0.0.0 prod.nd-api.com
